@@ -1,0 +1,7 @@
+mkdocs
+mkdocs-material
+mkdocstrings[python]
+lark
+hypothesis
+pyvis
+z3
