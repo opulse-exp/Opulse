@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/opulse-exp/Opulse.git">
-    <img src="docs\assets\images\logo.png" alt="Logo" width="250" height="250">
+    <img src="assets\images\logo.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">Opulse</h3>
@@ -14,7 +14,7 @@
   <p align="center">
     Opulse is a dynamic operator generation system designed to create and manage mathematical operators, with 'pulse' reflecting its dynamic and impactful nature in the creation process!
     <br />
-    <a href="https://github.com/opulse-exp/Opulse.git"><strong>Explore the docs »</strong></a>
+    <a href="https://opulse-exp.github.io/Opulse/"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
