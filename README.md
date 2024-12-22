@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/opulse-exp/Opulse.git">
-    <img src="docs\assets\images\logo.png" alt="Logo" width="250" height="250">
+    <img src="Opulse\docs\assets\images\logo.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">Opulse</h3>
